@@ -1,0 +1,18 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Marathon training - high-performance endurance with carbohydrate loading and hydration focus",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan contains 5-6 eating occasions throughout the day with emphasis on carbohydrates (60-65% of calories)",
+      "Total daily caloric intake meets or exceeds 3000 calories",
+      "Includes specific hydration recommendations (water intake and/or electrolyte beverages)",
+      "Plan is presented in compact, easy-to-follow format suitable for a single day"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-performance endurance athlete (marathoner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration throughout the day"
+  }
+]
